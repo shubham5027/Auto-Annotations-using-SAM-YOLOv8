@@ -1,7 +1,6 @@
 # Auto-Annotation-Using-YOLOv8-and-SAm
 Auto Annotation for generating segmentation dataset using YOLOv8 &amp; SAM
 
-Youtube video link: https://youtu.be/K_WYmsYhBEw
 
 ### Environment Setup:
 
